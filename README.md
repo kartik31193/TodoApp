@@ -4,7 +4,7 @@
 
 Submitted by: **Kartik Budholiya**
 
-Time spent: **4** hours spent in total
+Time spent: **5** hours spent in total
 
 ## User Stories
 
@@ -27,7 +27,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/MryoSGF.gif' title='Video Walkthrough' width='600' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/MryoSGF.gif' title='Video Walkthrough' width='400' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -37,12 +37,12 @@ As part of your pre-work submission, please reflect on the app and answer the fo
 
 **Question 1:** "What are your reactions to the Android app development platform so far? Compare and contrast Android's approach to layouts and user interfaces in past platforms you've used."
 
-**Answer:** [I used to work on Eclipse but Android studio is more advance and VCS is also included in this.I love it.]
+**Answer:** I used to work on Eclipse but Android studio is more advance and VCS is also included in this.I love it.
 
 **Question 2:** "Take a moment to reflect on the `ArrayAdapter` used in your pre-work. How would you describe an adapter in this context and what is its function in Android? Why do you think the adapter is important? Explain the purpose of the `convertView` in the `getView` method of the `ArrayAdapter`."
 
-**Answer:** [ArrayAdapter can be used with list based interfaces where view for each object in a collection of data objects you provide.
-The Adapter uses the convertView as a way of recycling old View objects that are no longer being used and To Get a View that displays the data at the specified position in the data set we use getView.].
+**Answer:** ArrayAdapter can be used with list based interfaces where view for each object in a collection of data objects you provide.
+The Adapter uses the convertView as a way of recycling old View objects that are no longer being used and To Get a View that displays the data at the specified position in the data set we use getView.
 
 ## Notes
 

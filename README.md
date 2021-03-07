@@ -19,12 +19,10 @@ Smart Attendance App is available on the Google Play Store.
 ## About
 
 The project deals with student attendance taking system. The Teacher may take
-the attendance and mark the present students using checkbox provided in
-front of every Roll number. This attendance sheet is stored and can be sent
-anywhere. This is very simple and user friendly attendance management
-system for teacher, who want to digitize their student attendance record using
-smart phone. Digitize means convert paper work process into digital form, and
-store all data online, so they can view all details in single click.
+the attendance and mark the present students using checkbox provided in front 
+of every Roll number. This attendance sheet is created and can be sent anywhere. 
+This is very simple and user friendly attendance management system for teacher, 
+who want to digitize their student attendance record using smart phone.
 
 This application was originally created by Kartik Budholiya and released under the MIT [LICENSE](LICENSE).
 
@@ -39,20 +37,11 @@ The android app lets you:
 - Completely ad-free.
 - Needs no special permissions.
 
-## Screenshots
+## Feature Graphic
 
-[<img src="project/4.png" align="left"
-width="200"
-    hspace="10" vspace="10">](project/4.png)
-[<img src="project/1.png" align="center"
-width="200"
-    hspace="10" vspace="10">](project/1.png)
-[<img src="project/2.png" align="center"
-width="200"
-    hspace="10" vspace="10">](project/2.png)
-[<img src="project/3.png" align="center"
-width="200"
-    hspace="10" vspace="10">](project/3.png)
+<div style="text-align:center">
+  <img src="project/feature graphic.png" alt="Screenshot">
+</div>
     
 
 ## Contributing

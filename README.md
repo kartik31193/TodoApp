@@ -39,9 +39,8 @@ The android app lets you:
 
 ## Feature Graphic
 
-<div style="text-align:center">
-  <img src="project/feature graphic.png" alt="Screenshot">
-</div>
+  ![feature graphic](https://user-images.githubusercontent.com/20455250/110243760-c060a500-7f81-11eb-8426-13bed4428039.png)
+
     
 
 ## Contributing

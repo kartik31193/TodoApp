@@ -1,31 +1,67 @@
-## Synopsis
+# Smart Attendance App
 
-At the top of the file there should be a short introduction and/ or overview that explains **what** the project is. This description should match descriptions added for package managers (Gemspec, package.json, etc.)
+<img src="app/src/main/res/drawable/logo.png" align="left"
+width="200" hspace="10" vspace="10">
 
-## Code Example
+An attendance taker app for teachers, mentors and professors.
+Unlike other apps, Smart Attendance App is free and open source.  
 
-Show what the library does as concisely as possible, developers should be able to figure out **how** your project solves their problem by looking at the code example. Make sure the API you are showing off is obvious, and that your code is short and concise.
+Smart Attendance App is available on the Google Play Store.
 
-## Motivation
+<p align="left">
+<a href="https://play.google.com/store/apps/details?id=fr.gaulupeau.apps.InThePoche">
+    <img alt="Get it on Google Play"
+        height="80"
+        src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" />
+</a>  
+<a href="https://f-droid.org/app/fr.gaulupeau.apps.InThePoche">
+    <img alt="Get it on F-Droid"
+        height="80"
+        src="https://f-droid.org/badge/get-it-on.png" />
+        </a>
+        </p>
 
-A short description of the motivation behind the creation and maintenance of the project. This should explain **why** the project exists.
+## About
 
-## Installation
+The project deals with student attendance taking system. The faculty may take
+the attendance and mark the present students using checkbox provided in
+front of every Roll number. This attendance sheet is stored and can be sent
+anywhere. This is very simple and user friendly attendance management
+system for teacher, who want to digitize their student attendance record using
+smart phone. Digitize means convert paper work process into digital form, and
+store all data online, so they can view all details in single click.
 
-Provide code examples and explanations of how to get the project.
+This application was originally created by Kartik Budholiya and released under the MIT License.
 
-## API Reference
+## Features
 
-Depending on the size of the project, if it is small and simple enough the reference docs can be added to the README. For medium size to larger projects it is important to at least provide a link to where the API reference docs live.
+The android app lets you:
+- Take attendance of class using your phone
+- Shows summary of attendance
+- Attendance will be converted to excel file
+- Attendance can be mailed with attached excel file
+- Attendance sheet can be exported anywhere you like
+- Completely ad-free.
+- Needs no special permissions.
 
-## Tests
+## Screenshots
 
-Describe and show how to run the tests with code examples.
+[<img src="/readme/Wallabag%20Reading%20List.png" align="left"
+width="200"
+    hspace="10" vspace="10">](/readme/Wallabag%20Reading%20List.png)
+[<img src="/readme/Wallabag%20Article%20View.png" align="center"
+width="200"
+    hspace="10" vspace="10">](/readme/Wallabag%20Article%20View.png)
+    
 
-## Contributors
+## Contributing
 
-Let people know how they can dive into the project, include important links to things like issue trackers, irc, twitter accounts if applicable.
+Smart Attendance App is a free and open source project. Any contributions are welcome. Here are a few ways you can help:
+ * Report bugs and make suggestions.
+ * Translate the app. (you don't have to create an account).
+ * Write some code. Please follow the code style used in the project to make a review process faster.
 
 ## License
 
-A short snippet describing the license (MIT, Apache, etc.)
+This application is released under MIT (see [LICENSE](LICENSE)).
+
